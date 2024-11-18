@@ -1,2 +1,2 @@
 # Repositorio_prueba
-Primer repositorio de prueba web
+creando mi primer repositorio en github 🌿
